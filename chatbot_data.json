@@ -1,0 +1,23 @@
+{
+    "hello": [
+        "Hi there!",
+        "Hello!",
+        "Greetings!"
+    ],
+    "how are you": [
+        "Thanks for asking!, I am doing well",
+        "Doing great, how about you?"
+    ],
+    "what is your name": [
+        "I am Singh AI, your personal assistant."
+    ],
+    "Tell me a joke": [
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+    ],
+    "Bye": [
+        "Fine! see you later."
+    ],
+    "hi": [
+        "Hey!"
+    ]
+}
